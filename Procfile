@@ -1,1 +1,1 @@
-Glad: python -m Gladiators.py
+woker: python3 Gladiators.py
